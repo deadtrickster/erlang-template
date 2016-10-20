@@ -6,8 +6,8 @@
 
 [![Hex.pm](https://img.shields.io/hexpm/v/APP_NAME.svg?maxAge=2592000?style=plastic)](https://hex.pm/packages/APP_NAME)
 [![Hex.pm](https://img.shields.io/hexpm/dt/APP_NAME.svg?maxAge=2592000)](https://hex.pm/packages/APP_NAME)
-[![Build Status](https://travis-ci.org/deadtrickster/APP_NAME.erl.svg?branch=version-3)](https://travis-ci.org/deadtrickster/APP_NAME.erl)
-[![Coverage Status](https://coveralls.io/repos/github/deadtrickster/APP_NAME.erl/badge.svg?branch=master)](https://coveralls.io/github/deadtrickster/APP_NAME.erl?branch=master)
+[![Build Status](https://travis-ci.org/deadtrickster/APP_NAME.svg?branch=version-3)](https://travis-ci.org/deadtrickster/APP_NAME)
+[![Coverage Status](https://coveralls.io/repos/github/deadtrickster/APP_NAME/badge.svg?branch=master)](https://coveralls.io/github/deadtrickster/APP_NAME?branch=master)
 
 ## Contributing
 
