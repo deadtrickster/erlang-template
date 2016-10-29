@@ -6,5 +6,6 @@ rm -rf ./.git
 git init
 git remote add origin git@github.com:deadtrickster/$1.git
 rm ./bin/init.sh
+./rebar3 edoc
 git add .
 git commit -m "initialized $1"
