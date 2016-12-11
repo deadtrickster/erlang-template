@@ -4,27 +4,40 @@
 
 @doc
 
-[![Hex.pm](https://img.shields.io/hexpm/v/APP_NAME.svg?maxAge=2592000?style=plastic)](https://hex.pm/packages/APP_NAME)
-[![Hex.pm](https://img.shields.io/hexpm/dt/APP_NAME.svg?maxAge=2592000)](https://hex.pm/packages/APP_NAME)
-[![Build Status](https://travis-ci.org/deadtrickster/APP_NAME.svg?branch=version-3)](https://travis-ci.org/deadtrickster/APP_NAME)
-[![Coverage Status](https://coveralls.io/repos/github/deadtrickster/APP_NAME/badge.svg?branch=master)](https://coveralls.io/github/deadtrickster/APP_NAME?branch=master)
+[![Hex.pm][Hex badge]][Hex link]
+[![Hex.pm Downloads][Hex downloads badge]][Hex link]
+[![Build Status][Travis badge]][Travis link]
+[![Coverage Status][Coveralls badge]][Coveralls link]
 
 ## Contributing
 
-Sections order:
+Section order:
 
-`Types -> Macros -> Callbacks -> Public API -> Deprecations -> Private Parts'
+- Types
+- Macros
+- Callbacks
+- Public API
+- Deprecations
+- Private Parts
 
-install git precommit hook:
+Install the `git` pre-commit hook:
 
-```./bin/pre-commit.sh install'''
+<pre lang="bash">
+./bin/pre-commit.sh install
+</pre>
 
- Pre-commit check can be skipped passing `--no-verify' option to git commit.
+The pre-commit check can be skipped by passing `--no-verify` to `git commit`.
 
 ## License
 
 MIT
 
-@end
+<!-- Named Links -->
 
-
+[Hex badge]: https://img.shields.io/hexpm/v/APP_NAME.svg?maxAge=2592000?style=plastic
+[Hex link]: https://hex.pm/packages/APP_NAME
+[Hex downloads badge]: https://img.shields.io/hexpm/dt/APP_NAME.svg?maxAge=2592000
+[Travis badge]: https://travis-ci.org/deadtrickster/APP_NAME.svg?branch=version-3
+[Travis link]: https://travis-ci.org/deadtrickster/APP_NAME
+[Coveralls badge]: https://coveralls.io/repos/github/deadtrickster/APP_NAME/badge.svg?branch=master
+[Coveralls link]: https://coveralls.io/github/deadtrickster/APP_NAME?branch=master
