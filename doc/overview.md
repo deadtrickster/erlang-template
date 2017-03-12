@@ -1,4 +1,4 @@
-@copyright 2016 Ilya Khaprov <<i.khaprov@gmail.com>>.
+@copyright 2017 Ilya Khaprov <<i.khaprov@gmail.com>>.
 @title APP_NAME
 @version 0.0.1
 
