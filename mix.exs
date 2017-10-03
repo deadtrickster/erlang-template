@@ -7,7 +7,10 @@ defmodule ELIXIR_MODULE.Mixfile do
      deps: deps(),
      description: description(),
      package: package(),
-     erlc_options: [:warnings_as_errors],
+     erlc_options: [:warnings_as_errors,
+                    :warn_export_vars,
+                    :warn_shadow_vars,
+                    :warn_obsolete_guard],
      elixirc_options: [warnings_as_errors: true],
      test_coverage: [tool: ExCoveralls],
      preferred_cli_env: ["coveralls": :test, "coveralls.html": :test]]
