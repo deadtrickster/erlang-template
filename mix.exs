@@ -22,7 +22,7 @@ defmodule ELIXIR_MODULE.Mixfile do
   defp package do
     [maintainers: ["Ilya Khaprov"],
      licenses: ["MIT"],
-     links: %{"GitHub" => "https://github.com/deadtrickster/APP_NAME"},
+     links: %{"GitHub" => "https://github.com/deadtrickster/GIT_NAME"},
      files: ["priv", "src", "README.md", "rebar.config"]]
   end
 

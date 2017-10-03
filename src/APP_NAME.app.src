@@ -11,5 +11,5 @@
 
   {maintainers, ["Ilya Khaprov"]},
   {licenses, ["MIT"]},
-  {links, [{"Github", "https://github.com/deadtrickster/APP_NAME"}]}
+  {links, [{"Github", "https://github.com/deadtrickster/GIT_NAME"}]}
  ]}.
